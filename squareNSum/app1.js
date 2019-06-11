@@ -9,3 +9,4 @@ const squareSum = arr => {
 }
 
 console.log(squareSum([1,2,3]));
+console.log(squareSum([3,3,3]));
